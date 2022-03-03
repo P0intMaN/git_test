@@ -8,3 +8,5 @@ def div(a,b):
     if(b==0):
         return 0
     return a/b
+
+# ShubhamKR0907, Add more codes here to practice your git skills
